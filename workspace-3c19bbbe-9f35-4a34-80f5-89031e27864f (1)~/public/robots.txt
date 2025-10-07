@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-
-# Block admin panel from indexing
-Disallow: /admin
-
-# Allow search engines to crawl the main site
-Sitemap: https://voltfold.com/sitemap.xml
